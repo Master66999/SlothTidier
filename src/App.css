@@ -1,0 +1,12 @@
+/* App-specific custom utilities */
+.text-emerald {
+  color: var(--emerald-primary);
+}
+
+.text-amber {
+  color: var(--amber-primary);
+}
+
+.text-muted {
+  color: var(--text-muted);
+}
